@@ -1,0 +1,154 @@
+{
+  "rating_popup" : {
+    "0a1uSmGXhk2fUl4jV3228RCR3wr2" : {
+      "x_app_open" : 100,
+      "x_counter_function" : 120,
+      "x_counter_game" : 50,
+      "x_days_since_first_open" : 21,
+      "x_last_game_score" : 51
+    },
+    "1uSmG2fUl4jV3220aXhk8RCR3wr2" : {
+      "x_app_open" : 93,
+      "x_counter_function" : 70,
+      "x_counter_game" : 40,
+      "x_days_since_first_open" : 125,
+      "x_last_game_score" : 61
+    },
+    "1uSmG3wr22fUl4jV32Xhk8RCR20a" : {
+      "x_app_open" : 2,
+      "x_counter_function" : 3,
+      "x_counter_game" : 1,
+      "x_days_since_first_open" : 1,
+      "x_last_game_score" : 11
+    },
+    "20aXhk8R1uSmG2fUl4jV32CR3wr2" : {
+      "x_app_open" : 100,
+      "x_counter_function" : 60,
+      "x_counter_game" : 35,
+      "x_days_since_first_open" : 125,
+      "x_last_game_score" : 91
+    },
+    "2fUl4jV3220a1uSmGXhk8RCR3wr2" : {
+      "x_app_open" : 80,
+      "x_counter_function" : 12,
+      "x_counter_game" : 14,
+      "x_days_since_first_open" : 20,
+      "x_last_game_score" : 17,
+      "y_observed" : 1
+    },
+    "2fUl4jV32Xhk8RCR20a1uSmG3wr2" : {
+      "x_app_open" : 8,
+      "x_counter_function" : 12,
+      "x_counter_game" : 14,
+      "x_days_since_first_open" : 2,
+      "x_last_game_score" : 1,
+      "y_observed" : 0
+    },
+    "3wr24jV32fkUm8RCR20aGl2Xh1uS" : {
+      "x_app_open" : 1,
+      "x_counter_function" : 3,
+      "x_counter_game" : 2,
+      "x_days_since_first_open" : 1,
+      "x_last_game_score" : 10
+    },
+    "3wr2mG2fUl4jVR1uS2CR320aXhk8" : {
+      "action" : 1.0,
+      "x_app_open" : 14,
+      "x_counter_function" : 11,
+      "x_counter_game" : 10,
+      "x_days_since_first_open" : 80,
+      "x_last_game_score" : 100,
+      "y_observed" : 1,
+      "y_predicted" : 0.9015817701326614
+    },
+    "4jV3220a1u2fUlSmGXhk8RCR3wr2" : {
+      "x_app_open" : 26,
+      "x_counter_function" : 46,
+      "x_counter_game" : 22,
+      "x_days_since_first_open" : 120,
+      "x_last_game_score" : 23,
+      "y_observed" : 0
+    },
+    "CR20aGl3wrm82R2Xh1uS4jV32fkU" : {
+      "x_app_open" : 1,
+      "x_counter_function" : 3,
+      "x_counter_game" : 21,
+      "x_last_game_score" : 10
+    },
+    "G3wr24jV32fkUl2Xh1uSm8RCR20a" : {
+      "x_app_open" : 1,
+      "x_counter_function" : 3,
+      "x_counter_game" : 21,
+      "x_days_since_first_open" : 1,
+      "x_last_game_score" : 10,
+      "y_observed" : 0
+    },
+    "GXhk8RCR3wr2fUl4jV3220a1uSm2" : {
+      "action" : 1.0,
+      "x_app_open" : 75,
+      "x_counter_function" : 350,
+      "x_counter_game" : 34,
+      "x_days_since_first_open" : 11,
+      "x_last_game_score" : 100,
+      "y_predicted" : 0.9999237382691254
+    },
+    "JgFzVxMlkfVRzY9Yeszx7El65Un2" : {
+      "action" : 1.0,
+      "x_app_open" : 6,
+      "x_counter_function" : 22,
+      "x_counter_game" : 13,
+      "x_days_since_first_open" : 1,
+      "x_last_game_score" : 7,
+      "y_observed" : 0,
+      "y_predicted" : 0.677858096808632
+    },
+    "OsrMPpUcfBNMraEXm2YYFU7kjSs2" : {
+      "x_app_open" : 1,
+      "x_counter_function" : 2,
+      "x_counter_game" : 1,
+      "x_days_since_first_open" : 1,
+      "x_last_game_score" : 76,
+      "y_observed" : 1
+    },
+    "R1uS2CR3wr2mG2fUl4jV320aXhk8" : {
+      "x_app_open" : 20,
+      "x_counter_function" : 21,
+      "x_counter_game" : 10,
+      "x_days_since_first_open" : 44,
+      "x_last_game_score" : 23,
+      "y_observed" : 0
+    },
+    "Ul4jV32Xh1uSmG3wr22fk8RCR20a" : {
+      "x_app_open" : 12,
+      "x_counter_function" : 65,
+      "x_counter_game" : 21,
+      "x_days_since_first_open" : 12,
+      "x_last_game_score" : 71,
+      "y_observed" : 1
+    },
+    "V3222fUl4j0a1uSmGXhk8RCR3wr2" : {
+      "x_app_open" : 10,
+      "x_counter_function" : 21,
+      "x_counter_game" : 6,
+      "x_days_since_first_open" : 60,
+      "x_last_game_score" : 2,
+      "y_observed" : 0
+    },
+    "jV320aXhk8R1uS2CR3wr2mG2fUl4" : {
+      "x_app_open" : 11,
+      "x_counter_function" : 12,
+      "x_counter_game" : 9,
+      "x_days_since_first_open" : 120,
+      "x_last_game_score" : 90,
+      "y_observed" : 0
+    },
+    "mG2fUl4jV320aXhk8R1uS2CR3wr2" : {
+      "x_app_open" : 40,
+      "x_counter_function" : 20,
+      "x_counter_game" : 1,
+      "x_days_since_first_open" : 60,
+      "x_last_game_score" : 1,
+      "y_observed" : 0
+    }
+  }
+}
