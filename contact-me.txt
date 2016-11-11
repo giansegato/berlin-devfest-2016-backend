@@ -1,6 +1,16 @@
-numpy==1.11.1
-pandas==0.18.1
-requests==2.10.0
-scikit-learn==0.17.1
-scipy==0.17.1
-sseclient==0.0.12
+You can contact me here:
+
+<< gianluca@uniwhere.com >>
+
+And you can find me on Twitter/Instagram/whatever, under the username @giansegato
+
+Get in touch for whatever reason you want, including (but not limited to):
+
+- tech questions regarding the workshop
+- questions regarding Machine Learning
+- what I do with Uniwhere
+- job stuff (internships or whatever: in Uniwhere we're super open to any kind of collaboration)
+- tech questions in general
+- non-tech questions in general
+
+I mean... whatever you need, I'm here.
